@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(20, 140, 255);
+}
+.title {
+  color: white;
+  text-align: center;
+}
+.home {
+  background-color: white;
+  border: none;
+  display: inline-block;
+  padding: 2px 5px;
+  border-radius: 2px;
+}
+.main-content {
+  background-color: white;
+  border-radius: 10px;
+}
+.user-handle {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.tweet {
+  margin: 5px 5px; //5 all sides
+  padding: 5px;
+}
+.timestamp {
+  font-size: 12px;
+  color: gray;
+}
